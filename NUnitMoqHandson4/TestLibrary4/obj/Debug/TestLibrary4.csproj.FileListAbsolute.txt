@@ -1,0 +1,12 @@
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\bin\Debug\TestLibrary4.dll
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\bin\Debug\TestLibrary4.pdb
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\bin\Debug\NUnitMoqHandson4.exe
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\bin\Debug\NUnitMoqHandson4.pdb
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\bin\Debug\NUnitMoqHandson4.exe.config
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\obj\Debug\TestLibrary4.csprojAssemblyReference.cache
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\obj\Debug\TestLibrary4.csproj.CoreCompileInputs.cache
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\obj\Debug\TestLibrary4.csproj.CopyComplete
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\obj\Debug\TestLibrary4.dll
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\obj\Debug\TestLibrary4.pdb
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\bin\Debug\nunit.framework.dll
+C:\new\nunit handsons\NUnitMoqHandson4\TestLibrary4\bin\Debug\nunit.framework.xml

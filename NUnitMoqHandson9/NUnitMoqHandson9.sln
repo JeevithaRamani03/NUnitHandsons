@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitMoqHandson9", "NUnitMoqHandson9\NUnitMoqHandson9.csproj", "{802DA137-3009-4A2C-AE69-B6B5ECE623D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersManagerLib", "PlayersManagerLib\PlayersManagerLib.csproj", "{C460088C-65BE-4B46-A162-49EFAE09F9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802DA137-3009-4A2C-AE69-B6B5ECE623D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802DA137-3009-4A2C-AE69-B6B5ECE623D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802DA137-3009-4A2C-AE69-B6B5ECE623D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802DA137-3009-4A2C-AE69-B6B5ECE623D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C460088C-65BE-4B46-A162-49EFAE09F9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C460088C-65BE-4B46-A162-49EFAE09F9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C460088C-65BE-4B46-A162-49EFAE09F9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C460088C-65BE-4B46-A162-49EFAE09F9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3F2CB6-093B-4DBF-9222-74D2EA086129}
+	EndGlobalSection
+EndGlobal

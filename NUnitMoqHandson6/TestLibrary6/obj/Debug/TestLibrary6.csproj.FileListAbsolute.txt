@@ -1,0 +1,12 @@
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\bin\Debug\TestLibrary6.dll
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\bin\Debug\TestLibrary6.pdb
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\obj\Debug\TestLibrary6.csprojAssemblyReference.cache
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\obj\Debug\TestLibrary6.csproj.CoreCompileInputs.cache
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\obj\Debug\TestLibrary6.dll
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\obj\Debug\TestLibrary6.pdb
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\bin\Debug\NUnitMoqHandson6.exe
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\bin\Debug\NUnitMoqHandson6.pdb
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\bin\Debug\NUnitMoqHandson6.exe.config
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\obj\Debug\TestLibrary6.csproj.CopyComplete
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\bin\Debug\nunit.framework.dll
+C:\new\nunit handsons\NUnitMoqHandson6\TestLibrary6\bin\Debug\nunit.framework.xml
